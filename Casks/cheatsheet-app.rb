@@ -1,4 +1,4 @@
-cask "cheatsheet" do
+cask "cheatsheet-app" do
   arch arm: "aarch64", intel: "x64"
 
   version "1.0.6"
