@@ -1,9 +1,9 @@
 cask "cheatsheet-app" do
   arch arm: "aarch64", intel: "x64"
 
-  version "1.1.8"
-  sha256 arm:   "b554aca9e893ce7fab9ba7176beaccf153f73a5df9871d5322beb19a34e9b336",
-         intel: "7d6ee2b5187e58cd506f2a6d3d65fe988b3fafae75615a3b78f7879f4ea7df26"
+  version "1.1.9"
+  sha256 arm:   "39f21ea53209375e4937d3b485eaab2776d23f4b34c7a579a2af8377dc187eb9",
+         intel: "0478bc6b085427524ce688b2c4ce86a77943d62d58465cc79643ee1d70d02c64"
 
   url "https://github.com/MagnusPladsen/cheatsheet-app/releases/download/v#{version}/cheatsheet_#{version}_#{arch}.dmg"
   name "Cheatsheet"
