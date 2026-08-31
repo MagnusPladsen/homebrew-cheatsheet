@@ -1,3 +1,5 @@
+![AI-assisted](https://img.shields.io/badge/built%20with-AI%20assistance-blue)
+
 # homebrew-cheatsheet
 
 Homebrew tap for [cheatsheet](https://github.com/MagnusPladsen/my-cheatsheet) — a developer keybinding cheatsheet for neovim, tmux, aerospace, and more.
